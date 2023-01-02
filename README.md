@@ -3,7 +3,7 @@
 
 # Install
 
-You can install this extension from the Marketplace.
+You can install this extension from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Keeqler.vscode-bible-passages).
 
 # Contributing
 
