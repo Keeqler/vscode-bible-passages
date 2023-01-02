@@ -2,13 +2,19 @@
   "name": "vscode-bible-passages",
   "displayName": "Bible Passages",
   "description": "Read a Bible passage every time you open VS Code.",
-  "version": "0.0.1",
+  "publisher": "Keeqler",
+  "version": "1.0.0",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Keeqler/vscode-bible-passages.git"
+  },
   "activationEvents": [
     "onStartupFinished"
   ],
